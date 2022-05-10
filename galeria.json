@@ -27,19 +27,6 @@
             }
         },
         {
-            "tervezo": "Boldizsár (nem tervező)",
-            "model": "",
-            "fotos": "",
-            "leiras": "A tradicionális ruhák jó mintát szolgáltatnak ahhoz, hogy a hulladékmentes szabás trükkjeit ellessük.A japán mintára készült kabát egy téglalap. Hasítékok átrendezésével alakult ki a végső forma.A nadrág szintén egyetlen téglalapból formázott. A lehulló darabokból hatalmas zsebek és övpánt készült.",
-            "url": "",
-            "kepek": {
-                "kepek1/1": "",
-                "kepek1/2": "",
-                "kepek1/3": "",
-                "kepek1/4": ""
-            }
-        },
-        {
             "tervezo": "Bartha Emma Zsuzsanna",
             "model": "Jeszenszky Luca",
             "fotos": "",
@@ -183,6 +170,19 @@
             }
         },
         {
+            "tervezo": "Nagy Flóra",
+            "model": "Nagy Flóra",
+            "fotos": "",
+            "leiras": "Nagy Dominika által tervezett ruhánál  a szabásminták helyes, átgondolt elrendezése által nem keletkezett hulladék.A ruha csupán egy körből és körcikkekből lett  összeállítva, a fazonja, stílusa a középkor divatját gondolja újra.",
+            "url": "",
+            "kepek": {
+                "kepek1/1": "",
+                "kepek1/2": "",
+                "kepek1/3": "",
+                "kepek1/4": ""
+            }
+        },
+        {
             "tervezo": "Nagy Hanna Napsugár",
             "model": "Nagy Hanna Napsugár",
             "fotos": "",
@@ -249,6 +249,19 @@
         },
         {
             "tervezo": "Wertheim Loretta",
+            "model": "Wertheim Loretta",
+            "fotos": "",
+            "leiras": "A kifutón látható ruha egy upcycle koncepcióval készült öltözék, a tervező, Wertheim Loretta, egy kidobásra szánt ruhát alakított át egy hordható, elegáns estélyi ruhadarabbá.",
+            "url": "",
+            "kepek": {
+                "kepek1/1": "",
+                "kepek1/2": "",
+                "kepek1/3": "",
+                "kepek1/4": ""
+            }
+        },
+        {
+            "tervezo": "Balla Robin",
             "model": "Wertheim Loretta",
             "fotos": "",
             "leiras": "A kifutón látható ruha egy upcycle koncepcióval készült öltözék, a tervező, Wertheim Loretta, egy kidobásra szánt ruhát alakított át egy hordható, elegáns estélyi ruhadarabbá.",

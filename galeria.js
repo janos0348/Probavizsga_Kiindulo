@@ -21,7 +21,7 @@ function init(){
 function proba(tomb,tervezok){
   for (let i = 0; i < tomb.length; i++) {
     console.log(tomb[i].tervezo)
-    tervezok+='Tervező: ' + tomb[i].tervezo+"<br>";
+    tervezok+='Tervező: '+(i+1) + tomb[i].tervezo+"<br>";
     
   }
   document.getElementById('alapGaleria').innerHTML = tervezok;
