@@ -15,6 +15,7 @@ function init(){
     .then((data) => {
       console.log(data.zerowaste)
       proba(data.zerowaste,tervezok);
+
     });
     document.getElementById('alapGaleria').innerHTML = tervezok;
 }
