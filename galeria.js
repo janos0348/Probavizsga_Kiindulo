@@ -7,35 +7,36 @@ function ID(elem){
 function $(elem){
     return document.querySelectorAll(elem);
 }
-
+var kep = "";
 function init(){
-  var tervezok = "";
-  var kep = "";
-  var img = document.createElement("img");
-  fetch('galeria.json')
+
+  api("galeria.json","zerowaste");
+}
+function api(eleres,galleria){
+  fetch(eleres)
     .then((response) => response.json())
     .then((data) => {
-      console.log(data.zerowaste)
-      proba(data.zerowaste,tervezok);
-      galleriaKepek(data.zerowaste,kep);
+      console.log(data[galleria])
+      galleriaKepek(data[galleria],kep,galleria);
 
     });
-    document.getElementById('galeria').innerHTML = tervezok;
+
 }
-function proba(tomb,tervezok){
+function galleriaKepek(tomb,kep,galleriaa){
   for (let i = 0; i < tomb.length; i++) {
-    console.log(tomb[i].tervezo)
-    tervezok+='Tervező: '+(i+1) + tomb[i].tervezo+"<br>";
-    
+    kep+='<div class= "kepBlock">'
+    kep+=`<img src="${galleriaa}/${tomb[i].kepek[0]}" alt="">`;
+    kep+=`<h2>${tomb[i].model}</h2>`;
+    kep+="</div>"
   }
-  document.getElementById('galeria').innerHTML = tervezok;
+  document.getElementById('galleria').innerHTML += kep;
 }
-function galleriaKepek(tomb,kep){
-  for (let i = 0; i < tomb.length; i++) {
-    kep+=`<img src="zerowaste/${tomb[i].kepek[0]}" alt="">`;
-    
-    
-    
-  }
-  document.getElementById('galeria').innerHTML = kep;
+function gombAdd(){
+  let gomb = "";
+  document.getElementById('galleriaSelect').innerHTML += gomb;
+
+}
+function gombFunkcio(){
+  
+
 }
