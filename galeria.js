@@ -10,14 +10,17 @@ function $(elem){
 
 function init(){
   var tervezok = "";
+  var kep = "";
+  var img = document.createElement("img");
   fetch('galeria.json')
     .then((response) => response.json())
     .then((data) => {
       console.log(data.zerowaste)
       proba(data.zerowaste,tervezok);
+      galleriaKepek(data.zerowaste,kep);
 
     });
-    document.getElementById('alapGaleria').innerHTML = tervezok;
+    document.getElementById('galeria').innerHTML = tervezok;
 }
 function proba(tomb,tervezok){
   for (let i = 0; i < tomb.length; i++) {
@@ -25,5 +28,14 @@ function proba(tomb,tervezok){
     tervezok+='Tervező: '+(i+1) + tomb[i].tervezo+"<br>";
     
   }
-  document.getElementById('alapGaleria').innerHTML = tervezok;
+  document.getElementById('galeria').innerHTML = tervezok;
+}
+function galleriaKepek(tomb,kep){
+  for (let i = 0; i < tomb.length; i++) {
+    kep+=`<img src="zerowaste/${tomb[i].kepek[0]}" alt="">`;
+    
+    
+    
+  }
+  document.getElementById('galeria').innerHTML = kep;
 }

@@ -6,12 +6,12 @@
             "fotos": "",
             "leiras": "A ruhát a nyári strandszezonra terveztem, formáját tekintve egyszerű, fürdőruha fölé felvehető lenge ruha. Az anyagmaradékból pedig fejkendő készült a Nap erős sugárzása ellen. A ruha Árokszállási Renáta munkája.",
             "url": "",
-            "kepek": {
-                "kepek1/1": "kep1_1_kicsi.jpg",
-                "kepek1/2": "kep1_2_kicsi.jpg",
-                "kepek1/3": "kep1_3_kicsi.jpg",
-                "kepek1/4": "kep1_4_kicsi.jpg"
-            }
+            "kepek": [
+                "kep1_1_kicsi.jpg",
+                "kep1_2_kicsi.jpg",
+                 "kep1_3_kicsi.jpg",
+                 "kep1_4_kicsi.jpg"
+    ]
         },
         {
             "tervezo": "Bajusz Gyöngyike",
@@ -19,12 +19,12 @@
             "fotos": "",
             "leiras": "Bajusz Gyöngyike ruhájánál fontos szempont volt, hogy a megvarrásánál egyáltalán ne keletkezzen hulladék. Az anyag téglalapokra lett szétvágva, amiből egy elegáns és könnyed nyári ruha készült.",
             "url": "",
-            "kepek": {
-                "kepek1/1": "kep2_1_kicsi.jpg",
-                "kepek1/2": "kep2_2_kicsi.jpg",
-                "kepek1/3": "kep2_3_kicsi.jpg",
-                "kepek1/4": "kep2_4_kicsi.jpg"
-            }
+            "kepek": [
+                "kep2_1_kicsi.jpg",
+                "kep2_2_kicsi.jpg",
+                "kep2_3_kicsi.jpg",
+                "kep2_4_kicsi.jpg"
+    ]
         },
         {
             "tervezo": "Bartha Emma Zsuzsanna",
@@ -32,12 +32,12 @@
             "fotos": "",
             "leiras": "Bartha Emma ruhájának elkészítésekor az egyszerűség, és a hulladék nélkül való elkészíthetőség volt a fő szempont. Egyszerűen, egy téglalapból lett kiszabva a ruhadarab. A felső öltözet különlegessége, hogy többféleképpen hordható: a barna oldalával kifele fordítva, de a mintással is egyaránt. Ezen kívül, mivel vállainál cipzár fut, 90 fokkal elfordítva és szétcipzározva is viselhető.",
             "url": "",
-            "kepek": {
-                "kepek1/1": "kep3_1_kicsi.jpg",
-                "kepek1/2": "kep3_2_kicsi.jpg",
-                "kepek1/3": "kep3_3_kicsi.jpg",
-                "kepek1/4": "kep3_4_kicsi.jpg"
-            }
+            "kepek": [
+                 "kep3_1_kicsi.jpg",
+                 "kep3_2_kicsi.jpg",
+                 "kep3_3_kicsi.jpg",
+                 "kep3_4_kicsi.jpg"
+            ]
         },
         {
             "tervezo": "Berecz Lili Blanka",
@@ -45,12 +45,12 @@
             "fotos": "",
             "leiras": "Berecz Lili ruhája a természet jelenlétét varázsolja körénk, s a modell mozgása teszi igazán élővé, lélegzővé.A díszek korábbról, más projektekből megmaradt darabokból, nyesedékekből készültek. Virágokká komponálva őket, kaptak lehetőséget az újrakezdésre. Segítségükkel egy évek óta szekrényben szomorkodó ruha vált különlegesebbé.",
             "url": "",
-            "kepek": {
-                "kepek1/1": "kep4_1_kicsi.jpg",
-                "kepek1/2": "kep4_2_kicsi.jpg",
-                "kepek1/3": "kep4_3_kicsi.jpg",
-                "kepek1/4": "kep4_4_kicsi.jpg"
-            }
+            "kepek": [
+                 "kep4_1_kicsi.jpg",
+                 "kep4_2_kicsi.jpg",
+                 "kep4_3_kicsi.jpg",
+                 "kep4_4_kicsi.jpg"
+            ]
         },
         {
             "tervezo": "Buzás Vanda Szonja",
@@ -58,12 +58,12 @@
             "fotos": "",
             "leiras": "Buzás Vanda által megalkotott szett eredetileg egy félig elkészített ruha volt, amit Vanda teljesen szétbontott és újraalkotott. A felső díszítése lehulló darabokból készült, valamint az ujja is, így minden anyag gyakorlatilag szemét volt, amiből valami új keletkezett.",
             "url": "",
-            "kepek": {
-                "kepek1/1": "kep5_1_kicsi.jpg",
-                "kepek1/2": "kep5_2_kicsi.jpg",
-                "kepek1/3": "kep5_3_kicsi.jpg",
-                "kepek1/4": "kep5_4_kicsi.jpg"
-            }
+            "kepek": [
+                "kep5_1_kicsi.jpg",
+                "kep5_2_kicsi.jpg",
+                "kep5_3_kicsi.jpg",
+                "kep5_4_kicsi.jpg"
+            ]
         },
         {
             "tervezo": "Fábián Fanni",
@@ -71,12 +71,12 @@
             "fotos": "",
             "leiras": "Fábián Fanni modellje egy vászonból készült, enyhén elengedett szabással formázott ruha, melyben egy körszoknya és egy egyszerű fűzős felsőrész kapcsolódik egymáshoz.",
             "url": "",
-            "kepek": {
-                "kepek1/1": "kep6_1_kicsi.jpg",
-                "kepek1/2": "kep6_2_kicsi.jpg",
-                "kepek1/3": "kep6_3_kicsi.jpg",
-                "kepek1/4": "kep6_4_kicsi.jpg"
-            }
+            "kepek": [
+                 "kep6_1_kicsi.jpg",
+                 "kep6_2_kicsi.jpg",
+                 "kep6_3_kicsi.jpg",
+                 "kep6_4_kicsi.jpg"
+            ]
         },
         {
             "tervezo": "Fazekas Anna",
@@ -84,12 +84,12 @@
             "fotos": "",
             "leiras": "Fazekas Anna különböző színű geometriai formák használatával színes, érdekes öltözéket hozott létre. Ezek a formák jelennek meg a  felsőn és a nadrágon is, ezzel valami újat és egyedit megalkotva, de mégis felhasználva a régit.",
             "url": "",
-            "kepek": {
-                "kepek1/1": "kep7_1_kicsi.jpg",
-                "kepek1/2": "kep7_2_kicsi.jpg",
-                "kepek1/3": "kep7_3_kicsi.jpg",
-                "kepek1/4": "kep7_4_kicsi.jpg"
-            }
+            "kepek": [
+                 "kep7_1_kicsi.jpg",
+                 "kep7_2_kicsi.jpg",
+                 "kep7_3_kicsi.jpg",
+                 "kep7_4_kicsi.jpg"
+                ]
         },
         {
             "tervezo": "Fódi Martin Levente",
@@ -97,12 +97,12 @@
             "fotos": "",
             "leiras": "A tervező, Fódi Martin a ruhán kersztül,  mint egy retro-futurisztikus elemekből álló festővásznon, utópisztikus  jövőképképét tárja elénk.",
             "url": "",
-            "kepek": {
-                "kepek1/1": "kep8_1_kicsi.jpg",
-                "kepek1/2": "kep8_2_kicsi.jpg",
-                "kepek1/3": "kep8_3_kicsi.jpg",
-                "kepek1/4": "kep8_4_kicsi.jpg"
-            }
+            "kepek": [
+                 "kep8_1_kicsi.jpg",
+                 "kep8_2_kicsi.jpg",
+                 "kep8_3_kicsi.jpg",
+                 "kep8_4_kicsi.jpg"
+                ]
         },
         {
             "tervezo": "Hoffmann Dóra",
@@ -110,12 +110,12 @@
             "fotos": "",
             "leiras": "A tervező, Hoffmann Dóra a zero waste irányt követve a megújulás, letisztultság vonalát kísérte végig a tervezésben és a kivitelezésben. A kibontakozó geometrikus formavilág és az egyhangú, sötét természet adta földszín tökéletes ellentétet nyújt a térmészet és a mesterséges világ között.",
             "url": "",
-            "kepek": {
-                "kepek1/1": "kep9_1_kicsi.jpg",
-                "kepek1/2": "kep9_2_kicsi.jpg",
-                "kepek1/3": "kep9_3_kicsi.jpg",
-                "kepek1/4": "kep9_4_kicsi.jpg"
-            }
+            "kepek": [
+                 "kep9_1_kicsi.jpg",
+                 "kep9_2_kicsi.jpg",
+                 "kep9_3_kicsi.jpg",
+                 "kep9_4_kicsi.jpg"
+                ]
         },
         {
             "tervezo": "Juhász Nóra",
@@ -123,12 +123,12 @@
             "fotos": "",
             "leiras": "Juhász Nóra ruhája különböző méretű tèglalapokból lett összevarva. Inspirációs tèmaként az èpületek ès a futónövènyek szolgáltak.",
             "url": "",
-            "kepek": {
-                "kepek1/1": "kep10_1_kicsi.jpg",
-                "kepek1/2": "kep10_2_kicsi.jpg",
-                "kepek1/3": "kep10_3_kicsi.jpg",
-                "kepek1/4": "kep10_4_kicsi.jpg"
-            }
+            "kepek": [
+                 "kep10_1_kicsi.jpg",
+                 "kep10_2_kicsi.jpg",
+                 "kep10_3_kicsi.jpg",
+                 "kep10_4_kicsi.jpg"
+                ]
         },
         {
             "tervezo": "Kertész Krisztina",
@@ -136,12 +136,12 @@
             "fotos": "",
             "leiras": "'Számomra a környezetvédelem egyik fontos eleme mentén képzeltem el a nullahulladékos ruhát, miszerint már meglévő, de nem hordott ruhadarabomat alakítottam át egy leheletnyit. ' - Kertész Krisztina, a tervező",
             "url": "",
-            "kepek": {
-                "kepek1/1": "kep11_1_kicsi.jpg",
-                "kepek1/2": "kep11_2_kicsi.jpg",
-                "kepek1/3": "kep11_3_kicsi.jpg",
-                "kepek1/4": "kep11_4_kicsi.jpg"
-            }
+            "kepek": [
+                 "kep11_1_kicsi.jpg",
+                 "kep11_2_kicsi.jpg",
+                 "kep11_3_kicsi.jpg",
+                 "kep11_4_kicsi.jpg"
+                ]
         },
         {
             "tervezo": "Mészáros Mercédesz Beatrix",
@@ -149,12 +149,12 @@
             "fotos": "",
             "leiras": "Ezt a könnyed esésű szatén ruhát a  hozzáillő ujjatlan kabáttal Mészáros Mercédesz tervezte. Ideális viselet rendezvényekre és munkába is, magassarkúval párosítva.",
             "url": "",
-            "kepek": {
-                "kepek1/1": "kep12_1_kicsi.jpg",
-                "kepek1/2": "kep12_2_kicsi.jpg",
-                "kepek1/3": "kep12_3_kicsi.jpg",
-                "kepek1/4": "kep12_4_kicsi.jpg"
-            }
+            "kepek": [
+                 "kep12_2_kicsi.jpg",
+                 "kep12_3_kicsi.jpg",
+                 "kep12_1_kicsi.jpg",
+                 "kep12_4_kicsi.jpg"
+                ]
         },
         {
             "tervezo": "Nagy Dominika Anna",
@@ -162,12 +162,12 @@
             "fotos": "",
             "leiras": "Nagy Dominika által tervezett ruhánál  a szabásminták helyes, átgondolt elrendezése által nem keletkezett hulladék.A ruha csupán egy körből és körcikkekből lett  összeállítva, a fazonja, stílusa a középkor divatját gondolja újra.",
             "url": "",
-            "kepek": {
-                "kepek1/1": "kep13_1_kicsi.jpg",
-                "kepek1/2": "kep13_2_kicsi.jpg",
-                "kepek1/3": "kep13_3_kicsi.jpg",
-                "kepek1/4": "kep13_4_kicsi.jpg"
-            }
+            "kepek": [
+                "kep13_1_kicsi.jpg",
+                "kep13_2_kicsi.jpg",
+                "kep13_3_kicsi.jpg",
+                "kep13_4_kicsi.jpg"
+            ]
         },
         {
             "tervezo": "Nagy Flóra",
@@ -175,12 +175,12 @@
             "fotos": "",
             "leiras": "Nagy Dominika által tervezett ruhánál  a szabásminták helyes, átgondolt elrendezése által nem keletkezett hulladék.A ruha csupán egy körből és körcikkekből lett  összeállítva, a fazonja, stílusa a középkor divatját gondolja újra.",
             "url": "",
-            "kepek": {
-                "kepek1/1": "kep14_1_kicsi.jpg",
-                "kepek1/2": "kep14_2_kicsi.jpg",
-                "kepek1/3": "kep14_3_kicsi.jpg",
-                "kepek1/4": "kep14_4_kicsi.jpg"
-            }
+            "kepek": [
+                 "kep14_1_kicsi.jpg",
+                 "kep14_2_kicsi.jpg",
+                 "kep14_3_kicsi.jpg",
+                 "kep14_4_kicsi.jpg"
+                ]
         },
         {
             "tervezo": "Nagy Hanna Napsugár",
@@ -188,12 +188,12 @@
             "fotos": "",
             "leiras": "Nagy Hanna Napsugár által tervezett ruha célja az volt,hogy kényelmes legyen és könnyen lehessen benne mozogni, így akár fellépésekre is lehessen használni.",
             "url": "",
-            "kepek": {
-                "kepek1/1": "kep15_1_kicsi.jpg",
-                "kepek1/2": "kep15_2_kicsi.jpg",
-                "kepek1/3": "kep15_3_kicsi.jpg",
-                "kepek1/4": "kep15_4_kicsi.jpg"
-            }
+            "kepek": [
+                 "kep15_1_kicsi.jpg",
+                 "kep15_2_kicsi.jpg",
+                 "kep15_3_kicsi.jpg",
+                 "kep15_4_kicsi.jpg"
+                ]
         },
         {
             "tervezo": "Novák Nóra",
@@ -201,12 +201,12 @@
             "fotos": "",
             "leiras": "Viharkabát /upcycling esőkabát/ A műanyag oldhatatlansága, le nem bomlósága tökéletesen párhuzamba állítható a dohánytermékek rendszeres használatával. Mindkét esetben az ember a fogyasztó ki a testét és a földjét is szennyezi. A műanyag lebomlása több száz évbe telik, a kátrány a tüdőben lerakódva akár évek múltán is kimutatható. Novák Nóra munkája.",
             "url": "",
-            "kepek": {
-                "kepek1/1": "kep16_1_kicsi.jpg",
-                "kepek1/2": "kep16_2_kicsi.jpg",
-                "kepek1/3": "kep16_3_kicsi.jpg",
-                "kepek1/4": "kep16_4_kicsi.jpg"
-            }
+            "kepek": [
+               "kep16_1_kicsi.jpg",
+               "kep16_2_kicsi.jpg",
+               "kep16_3_kicsi.jpg",
+               "kep16_4_kicsi.jpg"
+            ]
         },
         {
             "tervezo": "Szoboszlai Bella",
@@ -214,12 +214,12 @@
             "fotos": "",
             "leiras": "Az élénk színek es merész szabásvonalak az élet változatosságát és lendületességet tükrözik. Az öltözék Szoboszali Bella munkája.",
             "url": "",
-            "kepek": {
-                "kepek1/1": "kep17_1_kicsi.jpg",
-                "kepek1/2": "kep17_2_kicsi.jpg",
-                "kepek1/3": "kep17_3_kicsi.jpg",
-                "kepek1/4": "kep17_4_kicsi.jpg"
-            }
+            "kepek":[
+                 "kep17_1_kicsi.jpg",
+                 "kep17_2_kicsi.jpg",
+                 "kep17_3_kicsi.jpg",
+                 "kep17_4_kicsi.jpg"
+                ]
         },
         {
             "tervezo": "Szórád Nikolett",
@@ -227,12 +227,12 @@
             "fotos": "",
             "leiras": "Szórád Nikolett által tervezett összeállitást a fekete és rózsaszín harmoniája ihlette, melyet egy pillangós párnahuzatból készült fűző koronáz meg. ",
             "url": "",
-            "kepek": {
-                "kepek1/1": "kep18_1_kicsi.jpg",
-                "kepek1/2": "kep18_2_kicsi.jpg",
-                "kepek1/3": "kep18_3_kicsi.jpg",
-                "kepek1/4": "kep18_4_kicsi.jpg"
-            }
+            "kepek":[
+                "kep18_1_kicsi.jpg",
+                "kep18_2_kicsi.jpg",
+                "kep18_3_kicsi.jpg",
+                "kep18_4_kicsi.jpg"
+            ]
         },
         {
             "tervezo": "Tóth Dávid",
@@ -240,12 +240,12 @@
             "fotos": "",
             "leiras": "Tóth Dávid által tervezett öltözék egy könnyed nyári nadrág és blúz, melyet a művész  szülővárosa, Zalaegerszeg inspirált.",
             "url": "",
-            "kepek": {
-                "kepek1/1": "kep19_1_kicsi.jpg",
-                "kepek1/2": "kep19_2_kicsi.jpg",
-                "kepek1/3": "kep19_3_kicsi.jpg",
-                "kepek1/4": "kep19_4_kicsi.jpg"
-            }
+            "kepek": [
+               "kep19_1_kicsi.jpg",
+               "kep19_2_kicsi.jpg",
+               "kep19_3_kicsi.jpg",
+               "kep19_4_kicsi.jpg"
+            ]
         },
         {
             "tervezo": "Wertheim Loretta",
@@ -253,12 +253,12 @@
             "fotos": "",
             "leiras": "A kifutón látható ruha egy upcycle koncepcióval készült öltözék, a tervező, Wertheim Loretta, egy kidobásra szánt ruhát alakított át egy hordható, elegáns estélyi ruhadarabbá.",
             "url": "",
-            "kepek": {
-                "kepek1/1": "kep20_1_kicsi.jpg",
-                "kepek1/2": "kep20_2_kicsi.jpg",
-                "kepek1/3": "kep20_3_kicsi.jpg",
-                "kepek1/4": "kep20_4_kicsi.jpg"
-            }
+            "kepek": [
+               "kep20_1_kicsi.jpg",
+               "kep20_2_kicsi.jpg",
+               "kep20_3_kicsi.jpg",
+               "kep20_4_kicsi.jpg"
+            ]
         },
         {
             "tervezo": "Balla Robin",
@@ -266,12 +266,12 @@
             "fotos": "",
             "leiras": "A kifutón látható ruha egy upcycle koncepcióval készült öltözék, a tervező, Wertheim Loretta, egy kidobásra szánt ruhát alakított át egy hordható, elegáns estélyi ruhadarabbá.",
             "url": "",
-            "kepek": {
-                "kepek1/1": "kep21_1_kicsi.jpg",
-                "kepek1/2": "kep21_2_kicsi.jpg",
-                "kepek1/3": "kep21_3_kicsi.jpg",
-                "kepek1/4": "kep21_4_kicsi.jpg"
-            }
+            "kepek": [
+               "kep21_1_kicsi.jpg",
+               "kep21_2_kicsi.jpg",
+               "kep21_3_kicsi.jpg",
+               "kep21_4_kicsi.jpg"
+            ]
         }
     ],
     "kreativ": [
@@ -281,12 +281,12 @@
             "fotos": "",
             "leiras": "A tervezőt idézve: 'Régi, megunt ingekből nyári öltözéket terveztem.'A ruha Árokszállási Renáta munkája.",
             "url": "",
-            "kepek": {
-                "kepek1/1": "kep1_1_kicsi.jpg",
-                "kepek1/2": "kep1_2_kicsi.jpg",
-                "kepek1/3": "kep1_3_kicsi.jpg",
-                "kepek1/4": "kep1_4_kicsi.jpg"
-            }
+            "kepek": [
+                 "kep1_1_kicsi.jpg",
+                 "kep1_2_kicsi.jpg",
+                 "kep1_3_kicsi.jpg",
+                 "kep1_4_kicsi.jpg"
+                ]
         },
         {
             "tervezo": "Bajusz Gyöngyike",
@@ -294,12 +294,12 @@
             "fotos": "",
             "leiras": "Mi történhet egy nagyméretű férfi inggel, amit már nem hord a viselője? Darabjaira szétszedve, újragondolva és újrarendezve női felsővé változhat a fenntarthatóság jegyében. A ruha Bajusz Gyöngyike munkája.",
             "url": "",
-            "kepek": {
-                "kepek1/1": "kep2_1_kicsi.jpg",
-                "kepek1/2": "kep2_2_kicsi.jpg",
-                "kepek1/3": "kep2_3_kicsi.jpg",
-                "kepek1/4": "kep2_4_kicsi.jpg"
-            }
+            "kepek": [
+                "kep2_1_kicsi.jpg",
+                "kep2_2_kicsi.jpg",
+                "kep2_3_kicsi.jpg",
+                "kep2_4_kicsi.jpg"
+            ]
         },
         {
             "tervezo": "Bartha Emma Zsuzsanna",
@@ -307,12 +307,12 @@
             "fotos": "",
             "leiras": "Férfiingből férfiing - egy kis játék belecsempészésével új életet kaphat a már megunt ruhadarab,  színes, bohókás kiegészítő elemekkel igazán üdítő látványt nyújt.",
             "url": "",
-            "kepek": {
-                "kepek1/1": "kep3_1_kicsi.jpg",
-                "kepek1/2": "kep3_2_kicsi.jpg",
-                "kepek1/3": "kep3_3_kicsi.jpg",
-                "kepek1/4": "kep3_4_kicsi.jpg"
-            }
+            "kepek":[
+               "kep3_1_kicsi.jpg",
+               "kep3_2_kicsi.jpg",
+               "kep3_3_kicsi.jpg",
+               "kep3_4_kicsi.jpg"
+            ]
         },
         {
             "tervezo": "Berecz Lili Blanka",
@@ -320,12 +320,12 @@
             "fotos": "",
             "leiras": "Az ing tervezésekor leginkább az aszimmetria került előtérbe mind színében, mind formájában. Két teljesen különböző ing lett szétbontva, és egy olyan lett létrehozva, mely a geometria témáját is tükrözi, illetve a letisztultság is jellemző rá. Az öltözéket Bartha Emma készítette.",
             "url": "",
-            "kepek": {
-                "kepek1/1": "kep4_1_kicsi.jpg",
-                "kepek1/2": "kep4_2_kicsi.jpg",
-                "kepek1/3": "kep4_3_kicsi.jpg",
-                "kepek1/4": "kep4_4_kicsi.jpg"
-            }
+            "kepek": [
+               "kep4_1_kicsi.jpg",
+               "kep4_2_kicsi.jpg",
+               "kep4_3_kicsi.jpg",
+               "kep4_4_kicsi.jpg"
+            ]
         },
         {
             "tervezo": "Buzás Vanda Szonja",
@@ -333,12 +333,12 @@
             "fotos": "",
             "leiras": "Buzás Vandát idézve: 'Ennek a felsőnek az megalkotásakor spontán az akkori érzéseimet és gondolataimat tettem bele, így az itt látható végeredmény tulajdonképpen egy darab belőlem.'",
             "url": "",
-            "kepek": {
-                "kepek1/1": "kep5_1_kicsi.jpg",
-                "kepek1/2": "kep5_2_kicsi.jpg",
-                "kepek1/3": "kep5_3_kicsi.jpg",
-                "kepek1/4": "kep5_4_kicsi.jpg"
-            }
+            "kepek": [
+               "kep5_1_kicsi.jpg",
+               "kep5_2_kicsi.jpg",
+               "kep5_3_kicsi.jpg",
+               "kep5_4_kicsi.jpg"
+            ]
         },
         {
             "tervezo": "Fábián Fanni",
@@ -346,12 +346,12 @@
             "fotos": "",
             "leiras": "A régi ingből készült női felső egyszerre újszerű és elegánsan hanyag, ahogy a redők egymáson fekszenek kiemeli a derék vonalait. Egy farmerral és magassarkú cipővel igazán látványos viselet. Fábián Fanni munkája.",
             "url": "",
-            "kepek": {
-                "kepek1/1": "kep6_1_kicsi.jpg",
-                "kepek1/2": "kep6_2_kicsi.jpg",
-                "kepek1/3": "kep6_3_kicsi.jpg",
-                "kepek1/4": "kep6_4_kicsi.jpg"
-            }
+            "kepek": [
+               "kep6_1_kicsi.jpg",
+               "kep6_2_kicsi.jpg",
+               "kep6_3_kicsi.jpg",
+               "kep6_4_kicsi.jpg"
+            ]
         },
         {
             "tervezo": "Fazekas Anna",
@@ -359,12 +359,12 @@
             "fotos": "",
             "leiras": "Két férfiingből készült könnyed ruhát látunk, amiben az ing alkatrészeit a nem megszokott helyen felhasználva egyszerű, de mégis különleges felső keletkezett. Az öltözéket Fazekas Anna tervezte és készítette.",
             "url": "",
-            "kepek": {
-                "kepek1/1": "kep7_1_kicsi.jpg",
-                "kepek1/2": "kep7_2_kicsi.jpg",
-                "kepek1/3": "kep7_3_kicsi.jpg",
-                "kepek1/4": "kep7_4_kicsi.jpg"
-            }
+            "kepek": [
+               "kep7_1_kicsi.jpg",
+               "kep7_2_kicsi.jpg",
+               "kep7_3_kicsi.jpg",
+               "kep7_4_kicsi.jpg"
+            ]
         },
         {
             "tervezo": "Fódi Martin Levente",
@@ -372,12 +372,12 @@
             "fotos": "",
             "leiras": "Ezt az öltözéket a túlméretezett válltömés jellemzi, melyet a szakma nagyjai ihlették, de a tervező, Fódi Martin, a saját képére formált. ",
             "url": "",
-            "kepek": {
-                "kepek1/1": "kep8_1_kicsi.jpg",
-                "kepek1/2": "kep8_2_kicsi.jpg",
-                "kepek1/3": "kep8_3_kicsi.jpg",
-                "kepek1/4": "kep8_4_kicsi.jpg"
-            }
+            "kepek": [
+                "kep8_1_kicsi.jpg",
+                "kep8_2_kicsi.jpg",
+                "kep8_3_kicsi.jpg",
+                "kep8_4_kicsi.jpg"
+            ]
         },
         {
             "tervezo": "Hoffmann Dóra",
@@ -385,12 +385,12 @@
             "fotos": "",
             "leiras": "Ing1:Diagonális vonalvezetést követő ingruha, amely a szögletességet megfűszerezve válik egyenletlen egyenletességgé. Hoffmann Dóra munkája.Ing2:A kámzsanyakkal ellátott, ki- és átfordított elegáns blúzfelső a játékosságot kedvelő és a különleges darabokat bátran viselő hölgyek számára készült. Az öltözéket Hoffmann Dóra tervezte és készítette.",
             "url": "",
-            "kepek": {
-                "kepek1/1": "kep9_1_kicsi.jpg",
-                "kepek1/2": "kep9_2_kicsi.jpg",
-                "kepek1/3": "kep9_3_kicsi.jpg",
-                "kepek1/4": "kep9_4_kicsi.jpg"
-            }
+            "kepek": [
+                 "kep9_1_kicsi.jpg",
+                 "kep9_2_kicsi.jpg",
+                 "kep9_3_kicsi.jpg",
+                 "kep9_4_kicsi.jpg"
+                ]
         },
         {
             "tervezo": "Juhász Nóra",
@@ -398,12 +398,12 @@
             "fotos": "",
             "leiras": "Juhász Nóra ruhája különböző méretű tèglalapokból lett összevarva. Inspirációs tèmaként az èpületek ès a futónövènyek szolgáltak.",
             "url": "",
-            "kepek": {
-                "kepek1/1": "kep10_1_kicsi.jpg",
-                "kepek1/2": "kep10_2_kicsi.jpg",
-                "kepek1/3": "kep10_3_kicsi.jpg",
-                "kepek1/4": "kep10_4_kicsi.jpg"
-            }
+            "kepek": [
+               "kep10_1_kicsi.jpg",
+               "kep10_2_kicsi.jpg",
+               "kep10_3_kicsi.jpg",
+               "kep10_4_kicsi.jpg"
+            ]
         },
         {
             "tervezo": "Kertész Krisztina",
@@ -411,12 +411,12 @@
             "fotos": "",
             "leiras": "'Szeretem az ujjatlan és hosszú ujjú felsőket egyaránt, ezért kombináltam az inget ezen ízlésem szerint, s természetesen egy kicsit a geometrikus alakzatok is megihlettek a folyamat közben.' Tervező: Kertész Krisztina",
             "url": "",
-            "kepek": {
-                "kepek1/1": "kep11_1_kicsi.jpg",
-                "kepek1/2": "kep11_2_kicsi.jpg",
-                "kepek1/3": "kep11_3_kicsi.jpg",
-                "kepek1/4": "kep11_4_kicsi.jpg"
-            }
+            "kepek": [
+                "kep11_1_kicsi.jpg",
+                "kep11_2_kicsi.jpg",
+                "kep11_3_kicsi.jpg",
+                "kep11_4_kicsi.jpg"
+            ]
         },
         {
             "tervezo": "Mészáros Mercédesz Beatrix",
@@ -424,12 +424,12 @@
             "fotos": "",
             "leiras": "Egyszerre fiatalos és elegáns, részben formakövető kétrészes összeállítás, melyben mind a felső, mind a szoknya részének állítható a mérete, igazodva az azt viselőhöz. Az öltözéket Mészáros Mercédesz tervezte.",
             "url": "",
-            "kepek": {
-                "kepek1/1": "kep12_1_kicsi.jpg",
-                "kepek1/2": "kep12_2_kicsi.jpg",
-                "kepek1/3": "kep12_3_kicsi.jpg",
-                "kepek1/4": "kep12_4_kicsi.jpg"
-            }
+            "kepek": [
+               "kep12_1_kicsi.jpg",
+               "kep12_2_kicsi.jpg",
+               "kep12_3_kicsi.jpg",
+               "kep12_4_kicsi.jpg"
+            ]
         },
         {
             "tervezo": "Nagy Dominika Anna",
@@ -437,12 +437,12 @@
             "fotos": "",
             "leiras": "Nagy Dominika ingét főképp az asszimetria jellemzi. Emellett a geometrikusság is felelhető benne, ahogy a blúz alja háromszög formákban végződve lépcsőzetesen halad körbe. Ezt ellensúlyozza az ejtett nyakvonal mely nőiesebbé, kifinomultabbá teszi a darabot.",
             "url": "",
-            "kepek": {
-                "kepek1/1": "kep13_1_kicsi.jpg",
-                "kepek1/2": "kep13_2_kicsi.jpg",
-                "kepek1/3": "kep13_3_kicsi.jpg",
-                "kepek1/4": "kep13_4_kicsi.jpg"
-            }
+            "kepek": [
+                "kep13_1_kicsi.jpg",
+                "kep13_2_kicsi.jpg",
+                "kep13_3_kicsi.jpg",
+                "kep13_4_kicsi.jpg"
+            ]
         },
         {
             "tervezo": "Nagy Flóra",
@@ -450,12 +450,12 @@
             "fotos": "",
             "leiras": "'Szeretném megmutatni azt, hogy pár ing felhasználásával és a képzeletünk elengedésével milyen érdekes dolgok születhetnek. Próbáltam a saját vonalamat követni, mégis valami olyat csinálni, amit még én nem láttam.'- tervező: Nagy Flóra",
             "url": "",
-            "kepek": {
-                "kepek1/1": "kep14_1_kicsi.jpg",
-                "kepek1/2": "kep14_2_kicsi.jpg",
-                "kepek1/3": "kep14_3_kicsi.jpg",
-                "kepek1/4": "kep14_4_kicsi.jpg"
-            }
+            "kepek": [
+                "kep14_1_kicsi.jpg",
+                "kep14_2_kicsi.jpg",
+                "kep14_3_kicsi.jpg",
+                "kep14_4_kicsi.jpg"
+            ]
         },
         {
             "tervezo": "Nagy Hanna Napsugár",
@@ -463,12 +463,12 @@
             "fotos": "",
             "leiras": "Egy lazább, de mégis csinos ruha kialakítása volt a cél, amit akár ténylegesen fel lehet majd venni a mindennapokra, de akár egy eseményre is. Az öltözéket Nagy Hanna Napsugár készítette.",
             "url": "",
-            "kepek": {
-                "kepek1/1": "kep15_1_kicsi.jpg",
-                "kepek1/2": "kep15_2_kicsi.jpg",
-                "kepek1/3": "kep15_3_kicsi.jpg",
-                "kepek1/4": "kep15_4_kicsi.jpg"
-            }
+            "kepek":[
+                "kep15_1_kicsi.jpg",
+                "kep15_2_kicsi.jpg",
+                "kep15_3_kicsi.jpg",
+                "kep15_4_kicsi.jpg"
+            ]
         },
         {
             "tervezo": "Novák Nóra",
@@ -476,12 +476,12 @@
             "fotos": "",
             "leiras": "Viharkabát /upcycling esőkabát/ A műanyag oldhatatlansága, le nem bomlósága tökéletesen párhuzamba állítható a dohánytermékek rendszeres használatával. Mindkét esetben az ember a fogyasztó ki a testét és a földjét is szennyezi. A műanyag lebomlása több száz évbe telik, a kátrány a tüdőben lerakódva akár évek múltán is kimutatható. Novák Nóra munkája.",
             "url": "",
-            "kepek": {
-                "kepek1/1": "kep16_1_kicsi.jpg",
-                "kepek1/2": "kep16_2_kicsi.jpg",
-                "kepek1/3": "kep16_3_kicsi.jpg",
-                "kepek1/4": "kep16_4_kicsi.jpg"
-            }
+            "kepek": [
+                "kep16_1_kicsi.jpg",
+                "kep16_2_kicsi.jpg",
+                "kep16_3_kicsi.jpg",
+                "kep16_4_kicsi.jpg"
+            ]
         },
         {
             "tervezo": "Szoboszlai Bella",
@@ -489,12 +489,12 @@
             "fotos": "",
             "leiras": "A tervező, Szoboszali Bella szándéka szerint a bohókás ráncok és hajtások a kiszámíthatatlanság csodáját rejtik.",
             "url": "",
-            "kepek": {
-                "kepek1/1": "kep17_1_kicsi.jpg",
-                "kepek1/2": "kep17_2_kicsi.jpg",
-                "kepek1/3": "kep17_3_kicsi.jpg",
-                "kepek1/4": "kep17_4_kicsi.jpg"
-            }
+            "kepek": [
+                "kep17_1_kicsi.jpg",
+                "kep17_2_kicsi.jpg",
+                "kep17_3_kicsi.jpg",
+                "kep17_4_kicsi.jpg"
+            ]
         },
         {
             "tervezo": "Szórád Nikolett",
@@ -502,12 +502,12 @@
             "fotos": "",
             "leiras": "Ezt az ujrahasznosított inget a levehető ujjrész teszi igazán érdekessé melynek célja hogy izgalmasabb összeállításokat alkothassunk. Visszaköszön benne a rózsaszín szín és minta találkozása. Szórád Nikolett munkája.",
             "url": "",
-            "kepek": {
-                "kepek1/1": "kep18_1_kicsi.jpg",
-                "kepek1/2": "kep18_2_kicsi.jpg",
-                "kepek1/3": "kep18_3_kicsi.jpg",
-                "kepek1/4": "kep18_4_kicsi.jpg"
-            }
+            "kepek": [
+                "kep18_1_kicsi.jpg",
+                "kep18_2_kicsi.jpg",
+                "kep18_3_kicsi.jpg",
+                "kep18_4_kicsi.jpg"
+            ]
         },
         {
             "tervezo": "Tóth Dávid",
@@ -515,12 +515,12 @@
             "fotos": "",
             "leiras": "Az oversize ing kapucnival a különböző kultúrák keveredését jeleníti meg, melyek mégis harmonikusan együtt tudnak működni. Az öltöéket Tóth Dávid készítette.",
             "url": "",
-            "kepek": {
-                "kepek1/1": "kep19_1_kicsi.jpg",
-                "kepek1/2": "kep19_2_kicsi.jpg",
-                "kepek1/3": "kep19_3_kicsi.jpg",
-                "kepek1/4": "kep19_4_kicsi.jpg"
-            }
+            "kepek": [
+                "kep19_1_kicsi.jpg",
+                "kep19_2_kicsi.jpg",
+                "kep19_3_kicsi.jpg",
+                "kep19_4_kicsi.jpg"
+            ]
         },
         {
             "tervezo": "Wertheim Loretta",
@@ -528,12 +528,12 @@
             "fotos": "",
             "leiras": "A többféle mintázatú ingdarabból készült, ezek összeollózott egysége által létrejött felsőt, mely a színek harmonikus kombinációját és az aszimmetriát egyarát magában hordozza, Werheim Loretta készítette.",
             "url": "",
-            "kepek": {
-                "kepek1/1": "kep20_1_kicsi.jpg",
-                "kepek1/2": "kep20_2_kicsi.jpg",
-                "kepek1/3": "kep20_3_kicsi.jpg",
-                "kepek1/4": "kep20_4_kicsi.jpg"
-            }
+            "kepek": [
+               "kep20_1_kicsi.jpg",
+               "kep20_2_kicsi.jpg",
+               "kep20_3_kicsi.jpg",
+               "kep20_4_kicsi.jpg"
+            ] 
         },
         {
             "tervezo": "Balla Robin",
@@ -541,12 +541,12 @@
             "fotos": "",
             "leiras": "A kifutón látható ruha egy upcycle koncepcióval készült öltözék, a tervező, Wertheim Loretta, egy kidobásra szánt ruhát alakított át egy hordható, elegáns estélyi ruhadarabbá.",
             "url": "",
-            "kepek": {
-                "kepek1/1": "kep21_1_kicsi.jpg",
-                "kepek1/2": "kep21_2_kicsi.jpg",
-                "kepek1/3": "kep21_3_kicsi.jpg",
-                "kepek1/4": "kep21_4_kicsi.jpg"
-            }
+            "kepek": [
+                "kep21_1_kicsi.jpg",
+                "kep21_2_kicsi.jpg",
+                "kep21_3_kicsi.jpg",
+                "kep21_4_kicsi.jpg"
+    ]
         }
 
     ]
