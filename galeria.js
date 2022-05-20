@@ -11,6 +11,7 @@ var kep = "";
 function init(){
 
   api("galeria.json","zerowaste");
+  api("galeria.json","kreativ");
 }
 function api(eleres,galleria){
   fetch(eleres)
