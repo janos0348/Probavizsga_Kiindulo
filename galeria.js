@@ -11,7 +11,8 @@ var kep = "";
 function init(){
 
   api("galeria.json","zerowaste");
-  api("galeria.json","kreativ");
+  $(zerowaste).addEventListener("click",  api("galeria.json","zerowaste"))
+  $(kreativ).addEventListener("click",  api("galeria.json","kreativ"))
 }
 function api(eleres,galleria){
   fetch(eleres)
